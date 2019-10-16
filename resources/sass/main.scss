@@ -1,0 +1,45 @@
+.cabecalho {
+    background-color: #a2a2a270;
+    padding: 2rem;
+}
+
+.cabecalhoGrid {
+    border-style: solid;
+    border-width: 1px 0px 1px 0px !important;
+}
+
+.centroGrid{
+    border-style: solid;
+    border-width: 0px 1px 0px 1px !important;
+}
+
+.button {
+    border-radius: 0px !important;
+    border-right: 1px solid !important;
+    border-left: 1px solid !important;
+    width: 2.6rem;
+}
+
+.conteudoGrid {
+    border-top: 1px solid;
+    border-left: 1px solid;
+    overflow-x: hidden;
+    overflow-y: scroll;
+    height: 16.3rem;
+    width: 100%;
+}
+
+.celulaGrid {
+    border-right: solid 1px;
+    border-bottom: solid 1px;
+}
+
+.setPresenca {
+    width: 2.4rem;
+    height: 2.3rem;
+    border-right: solid 1px;
+}
+
+.firstCelula {
+    width: 13.8rem;
+}
