@@ -1,5 +1,5 @@
-Projeto feito para faculdade: Folha de chamada web
-    
+# Projeto feito para faculdade: Folha de chamada web
+
 - rodar composer install
 - rodar php artisan key:generate
 - rodar php artisan migrate
